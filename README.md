@@ -46,5 +46,5 @@ This repository will host the official code, datasets, and resources once releas
 ## Quick Start (Coming Soon)
 1. Clone the repository:
 ```bash
-git clone git@github.com:YuanyangYin/SEA.git
+git clone https://github.com/YuanyangYin/SEA.git
 cd SEA
